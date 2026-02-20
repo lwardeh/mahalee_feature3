@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Petra",
+    "category": "Historical Site",
+    "city": "Ma'an",
+    "description": "An ancient city carved into rose-red rock cliffs, one of the world's most famous archaeological sites.",
+    "rating": 5,
+    "image": "petra.jpg",
+    "openHours": "6:00 AM - 6:00 PM"
+  },
+  {
+    "id": 2,
+    "name": "Wadi Rum",
+    "category": "Nature",
+    "city": "Aqaba",
+    "description": "A vast desert wilderness known for its dramatic sandstone mountains and ancient petroglyphs.",
+    "rating": 5,
+    "image": "wadi-rum.jpg",
+    "openHours": "Open 24 hours"
+  },
+  {
+    "id": 3,
+    "name": "Dead Sea",
+    "category": "Nature",
+    "city": "Balqa",
+    "description": "The lowest point on Earth, famous for its salt-rich waters where you can float effortlessly.",
+    "rating": 4,
+    "image": "dead-sea.jpg",
+    "openHours": "7:00 AM - 7:00 PM"
+  },
+  {
+    "id": 4,
+    "name": "Jerash",
+    "category": "Historical Site",
+    "city": "Jerash",
+    "description": "One of the best preserved Roman cities in the world, featuring grand colonnaded streets and temples.",
+    "rating": 4,
+    "image": "jerash.jpg",
+    "openHours": "8:00 AM - 5:00 PM"
+  },
+  {
+    "id": 5,
+    "name": "Rainbow Street",
+    "category": "Cultural",
+    "city": "Amman",
+    "description": "A vibrant street in Jabal Amman filled with cafes, art galleries, and local shops.",
+    "rating": 4,
+    "image": "rainbow-street.jpg",
+    "openHours": "10:00 AM - 12:00 AM"
+  },
+  {
+    "id": 6,
+    "name": "Jordan Museum",
+    "category": "Museum",
+    "city": "Amman",
+    "description": "The national museum of Jordan housing artifacts including the Dead Sea Scrolls and ancient treasures.",
+    "rating": 4,
+    "image": "jordan-museum.jpg",
+    "openHours": "10:00 AM - 5:00 PM"
+  },
+  {
+    "id": 7,
+    "name": "Amman Citadel",
+    "category": "Historical Site",
+    "city": "Amman",
+    "description": "An ancient hilltop site overlooking Amman with ruins spanning thousands of years of history.",
+    "rating": 5,
+    "image": "amman-citadel.jpg",
+    "openHours": "8:00 AM - 5:00 PM"
+  },
+  {
+    "id": 8,
+    "name": "Aqaba Marine Park",
+    "category": "Nature",
+    "city": "Aqaba",
+    "description": "A stunning coral reef reserve perfect for snorkeling and diving in the Red Sea.",
+    "rating": 4,
+    "image": "aqaba-marine.jpg",
+    "openHours": "8:00 AM - 6:00 PM"
+  },
+  {
+    "id": 9,
+    "name": "Al-Husseini Mosque",
+    "category": "Cultural",
+    "city": "Amman",
+    "description": "One of the oldest and most prominent mosques in Amman, a beautiful example of Islamic architecture.",
+    "rating": 4,
+    "image": "husseini-mosque.jpg",
+    "openHours": "Open daily (closed during prayer times for visitors)"
+  },
+  {
+    "id": 10,
+    "name": "Ajloun Castle",
+    "category": "Historical Site",
+    "city": "Ajloun",
+    "description": "A 12th-century Arab Islamic castle built to defend against the Crusaders, surrounded by lush pine forests.",
+    "rating": 4,
+    "image": "ajloun-castle.jpg",
+    "openHours": "8:00 AM - 4:00 PM"
+  }
+]
