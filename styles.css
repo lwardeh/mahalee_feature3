@@ -1,77 +1,77 @@
 /* Global styles for the Mahalee app */
 body {
-    font-family: Arial, sans-serif;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f5f5f5;
-  }
-  
-  /* App title */
-  h1 {
-    text-align: center;
-    color: #2c3e50;
-  }
-  
-  /* Grid layout for the spot cards */
-  .spot-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-  }
-  
-  /* Individual spot card */
-  .spot-card {
-    background-color: white;
-    border-radius: 8px;
-    padding: 16px;
-    width: 250px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  .spot-card h2 {
-    margin: 0 0 8px 0;
-    color: #2c3e50;
-  }
-  
-  /* Category and city labels */
-  .category {
-    background-color: #e8f4f8;
-    color: #2980b9;
-    padding: 2px 8px;
-    border-radius: 4px;
-    display: inline-block;
-    font-size: 0.85em;
-  }
-  
-  .city {
-    color: #7f8c8d;
-    font-size: 0.9em;
-  }
-  
-  .rating {
-    font-weight: bold;
-    color: #e67e22;
-  }
-  
-  .hours {
-    color: #7f8c8d;
-    font-size: 0.85em;
-  }
-  
-  /* Search and filter inputs */
-  .search-bar {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-  
-  .search-bar input,
-  .search-bar select {
-    padding: 8px 12px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    font-size: 0.95em;
-  }  
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+/* App title */
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+/* Grid layout for the spot cards */
+.spot-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* Individual spot card */
+.spot-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  width: 250px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.spot-card h2 {
+  margin: 0 0 8px 0;
+  color: #2c3e50;
+}
+
+/* Category and city labels */
+.category {
+  background-color: #e8f4f8;
+  color: #2980b9;
+  padding: 2px 8px;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 0.85em;
+}
+
+.city {
+  color: #7f8c8d;
+  font-size: 0.9em;
+}
+
+.rating {
+  font-weight: bold;
+  color: #e67e22;
+}
+
+.hours {
+  color: #7f8c8d;
+  font-size: 0.85em;
+}
+
+/* Search and filter inputs */
+.search-bar {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-bar input,
+.search-bar select {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
